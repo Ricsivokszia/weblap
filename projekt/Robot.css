@@ -1,0 +1,27 @@
+body{
+    background-image: url(asd.jpg);
+
+}
+h1{
+    font-size: 350%;
+    color: green;
+    margin: 850px;
+}
+#kep{
+    width: 300px;
+    height: 200px;
+}
+p{
+    color: green;
+}
+ul{
+    color:green;
+}
+#cs{
+    font-size: 150%;
+}
+#idezet{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}

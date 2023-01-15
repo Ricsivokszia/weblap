@@ -1,0 +1,45 @@
+h1{
+    font-size: 350%;
+    color: lime;
+    margin: 850px;
+}
+#kep{
+    width: 300px;
+    height: 200px;
+}
+p{
+    color: lime;
+}
+ul{
+    color:lime;
+}
+#cs{
+    font-size: 150%;
+}
+#idezet{
+    color: lime;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+h3{
+    color: lime;
+}
+h4{
+    color: lime;
+}
+.link1{
+    background-color: red;
+}
+.link2{
+    background-color: white;
+}
+.link3{
+    background-color: limegreen;
+}
+.gombok{
+    font-size: 20px;
+  
+}
+#p1{
+    font-size: 23px;
+}
